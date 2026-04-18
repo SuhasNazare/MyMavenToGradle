@@ -1,0 +1,6 @@
+.gradle/
+build/
+target/
+*.zip
+*.jar
+gradle-8.5/
